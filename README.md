@@ -1,2 +1,2 @@
-#Conclusiones
+# Conclusiones
 Este fue un proyecto usando Vite con React+Typescript, implementando el framework de CSS TailwindCSS. En este proyecto se usaron algunas eficiencias en el renderizado del sistemas, como lo fueron comprobaciones de valores para evitar renderizar componentes inecesariamente, ademas se uso el hook useMemo para aplicar funciones donde se necesitaba renderizar la pagina cuando ciertos states eran actualizados.
